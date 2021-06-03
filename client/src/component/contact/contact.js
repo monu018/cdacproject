@@ -6,7 +6,7 @@ import contact_2 from "../../assets/images/contact/contact_2.jpg";
 import contact_3 from "../../assets/images/contact/contact_3.jpg";
 import contact_4 from "../../assets/images/contact/contact_4.jpg";
 import contact_5 from "../../assets/images/contact/contact_5.jpg";
-import contact_6 from "../../assets/images/contact/contact_6.jpg";
+import contact_6 from "../../assets/images/contact/contact_6.jpeg";
 
 import { Card, Image } from "react-bootstrap";
 import "./contact.css";
@@ -185,10 +185,10 @@ export default function Contact() {
               />
               <Card.Body style={{ textAlign: "center" }}>
                 <Card.Title>
-                  <h1>Dr. Gaurav Saini</h1>
+                  <h1>Dr. Brahmjit Singh</h1>
                 </Card.Title>
                 <Card.Text>
-                  <h4>Assistant Professor, NIT Kurukshetra</h4>
+                  <h4> Professor, NIT Kurukshetra</h4>
                 </Card.Text>
               </Card.Body>
             </Card>
